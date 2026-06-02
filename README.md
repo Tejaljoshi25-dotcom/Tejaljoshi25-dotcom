@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 ## 👋 Hi, I'm Tejal Joshi
-### Data scientist | 📊 Data Analyst | 🐍 Python | 🔍 EDA Specialist | 📍 Haldwani
+###  🔬 Research-Curious | 📊 Data Analyst | 🐍 Python | 🔍 EDA Specialist | 📍 Haldwani
 
 > "Turning caffeine into code ☕💻 Building insights with AI & curiosity ⚡"
 
-- 🔭 **Currently working on:** EDA projects in automotive, weather & finance domains
-- 🌱 **Learning:** Machine Learning, Statistical Modeling, Advanced Visualizations
-- 💼 **Open to:** Data Analyst Internships | Research Collaborations
+- 🔭 **Currently working on:** Learning EDA through hands-on projects in automotive, weather & finance domains
+- 🌱 **Learning:** Python, Pandas, Data Visualization, Machine Learning basics
+- 💼 **Open to:** Data Analyst Internships | Learning Collaborations
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/tejal-joshi-137b2b391) | [Blog](https://www.blogger.com/u/1/blog/posts/3892804302056536137)
 
 ---
@@ -22,7 +22,30 @@
 
 ---
 
-### 📌 Featured Projects
-- [🌤️ Weather Trends EDA](https://github.com/Tejaljoshi25-dotcom/weather-history-eda)
-- [🚗 Used Car Price Analysis](https://github.com/Tejaljoshi25-dotcom/used-car-price--analysis)
-- [📈 Nasdaq Market Microstructure](https://github.com/Tejaljoshi25-dotcom/Nasdaq-Market-Microstructure-EDA-)
+### 📌 Projects I'm Building
+
+| Project | What I Learned |
+|---------|---------------|
+| [🌤️ Weather Trends EDA](https://github.com/Tejaljoshi25-dotcom/weather-history-eda) | Data cleaning, hypothesis testing, visualization |
+| [🚗 Used Car Price Analysis](https://github.com/Tejaljoshi25-dotcom/used-car-price--analysis) | Working with real-world messy data, Pandas workflows |
+| [📈 Nasdaq Market Microstructure](https://github.com/Tejaljoshi25-dotcom/Nasdaq-Market-Microstructure-EDA-) | Handling large datasets, financial data basics |
+
+> 💡 *All projects are learning exercises — I document my journey as I grow.*
+
+---
+
+### 📊 My GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejaljoshi25-dotcom&show_icons=true&theme=radical&hide_border=true" height="140"/>
+</div>
+<small>✨ Stats update automatically — showing my real learning journey</small>
+
+---
+
+### 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/tejal-joshi-137b2b391)
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?logo=blogger&logoColor=white&style=flat)](https://www.blogger.com/u/1/blog/posts/3892804302056536137)
+
+---
+
+> 🌱 *"Every expert was once a beginner. I'm building my path, one commit at a time."*
