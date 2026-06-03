@@ -28,7 +28,7 @@
 |---------|---------------|
 | [🌤️ Weather Trends EDA](https://github.com/Tejaljoshi25-dotcom/weather-history-eda) | Data cleaning, hypothesis testing, visualization |
 | [🚗 Used Car Price Analysis](https://github.com/Tejaljoshi25-dotcom/used-car-price--analysis) | Working with real-world messy data, Pandas workflows |
-| [📈 Nasdaq Market Microstructure](https://github.com/Tejaljoshi25-dotcom/Nasdaq-Market-Microstructure-EDA-) | Handling large datasets, financial data basics |
+| [📈 Nasdaq Market Microstructure](https://github.com/Tejaljoshi25-dotcom/Nasdaq-Market-Microstructure-EDA-..git) | Handling large datasets, financial data basics |
 
 > 💡 *All projects are learning exercises — I document my journey as I grow.*
 
